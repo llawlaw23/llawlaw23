@@ -2,7 +2,7 @@
 
 **Aspiring Data Analyst | Python, SQL, Excel**
 
-I'm passionate about using data to solve problems and tell stories. Currently exploring Machine Learning and improving my data analysis skills through projects.
+I'm passionate about using data to solve problems and tell stories, and I am currently exploring Machine Learning and improving my data analysis skills through projects.
 
 ## Tools & Skills
 - Python (Pandas, Matplotlib)
