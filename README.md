@@ -9,6 +9,7 @@ I'm passionate about using data to solve problems and tell stories, and I'm curr
 - SQL
 - Excel
 - Jupyter Notebooks
+- Power BI
 
 ## Projects
 - [30-Day ML Bootcamp Supervised Learning & Data Exploration] ([https://github.com/llawlaw23/ML-30-Days-Bootcamp](https://github.com/llawlaw23/30-Day-ML-Bootcamp---Supervised-Learning-Data-Exploration)) – My machine learning journey.
